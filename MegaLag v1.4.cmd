@@ -1,6 +1,6 @@
 @echo off
 mode con: cols=140 lines=15
-title MegaLag (V1.4 - By Maxwell Patrick)
+title MegaLag (V1.4 - By Max0824 from GitHub)
 cls
 echo Warning: This may make you computer lag so much it will break, and the battery will go down by up to 50%, depending on how long you run it.
 echo The current applications that are being run are as follows:
