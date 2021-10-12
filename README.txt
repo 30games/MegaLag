@@ -19,3 +19,17 @@ Description: Added (unneccesary) but cool loading screen.
 V1.5:
 Date: Unknown
 Description: Still developing.
+Is MegaLag throwing an error? That might be because you need to have ALL of the apps installed that pop up on the main MegaLag screen. So go look.
+Or not. It's ok. Here's a convenient list:
+App Name       | Pre installed on Windows 10?
+.File Explorer | Yes
+....Powershell | Yes
+Microsoft Edge | Yes
+........Chrome |  No
+.......Firefox |  No
+..........Word | Yes
+.........Excel | Yes
+....PowerPoint | Yes
+.........Paint | Yes
+....Calculator | Yes
+........Dialer | Yes
